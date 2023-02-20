@@ -8,7 +8,7 @@ import os
 
 
 
-openai.api_key = "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"
+openai.api_key = "Тут АПИ"
 
 
 # read input file
